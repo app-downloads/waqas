@@ -7,6 +7,21 @@ import Image from "next/image"
 
 const projects = [
   {
+    title: "Seo Blog",
+    description:
+      "SEO blog covering Technical SEO, AI in SEO, Semantic SEO, Content Optimization, and Case Studies.",
+    longDescription:
+      "Raw insights on SEO, AI integration, semantic search, and content strategy. Built on principles of clarity and substance.",
+    tags: ["React", "Node.js", "Blog", "SEO"],
+    image: "/images/seohq.png",
+    links: {
+      demo: "https://seohq.github.io/",
+      github: "#",
+    },
+    features: ["SEO", "Technical SEO", "Semantic SEO", "Content Optimization"],
+    color: "from-blue-500/20 to-purple-500/20",
+  },
+  {
     title: "Adsense Revenue Calculator",
     description:
       "A comprehensive tool that includes Revenue Calculator, Ad Unit Code Generator, Policy Compliance Checker, Ad Placement Optimizer, and Ads.txt Generator.",
