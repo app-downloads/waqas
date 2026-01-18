@@ -26,6 +26,22 @@ const seoSlides = [
 // Projects data from the knowledge base
 const projects = [
   {
+    title: "SEO Services",
+    description:
+      "Professional SEO Services - On-page, Off-page, and Technical SEO solutions to boost your website rankings. Expert SEO consulting and optimization services.",
+    image: "/images/seoservicesus.png",
+    links: {
+      demo: "https://seoservicesus.github.io/",
+    },
+  {
+    title: "SEO Blog",
+    description:
+      "SEO HQ - A brutalist SEO blog covering Technical SEO, AI in SEO, Semantic SEO, Content Optimization, and Case Studies.",
+    image: "/images/seohq.png",
+    links: {
+      demo: "https://seohq.github.io/",
+    },
+  {
     title: "eBikes & Accessories Affiliate Website",
     description:
       "An affiliate marketing website specializing in electric bikes and related accessories with comprehensive product reviews and recommendations.",
@@ -41,7 +57,7 @@ const projects = [
       "Convert Videos into high-quality animated GIFs instantly.",
     image: "/images/video-to-gif.PNG",
     links: {
-      demo: "https://makegifs.online/",
+      demo: "https://mp42gif.vercel.app/",
     },
     features: ["Project Showcase", "Skills Display", "Contact Form", "Responsive Design"],
   },
@@ -51,7 +67,7 @@ const projects = [
       "A collection of utility tools for developers including various code and data processing utilities.",
     image: "/images/devbuddy.png",
     links: {
-      demo: "https://devbuddy.online/",
+      demo: "https://devbuddy1.vercel.app/",
     },
     features: ["Code Utilities", "Data Tools", "Formatting", "Conversion Tools"],
   },
