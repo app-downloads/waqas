@@ -15,7 +15,7 @@ const projects = [
     tags: ["React", "Node.js", "AdSense API", "Revenue Analytics"],
     image: "/images/adsense.png",
     links: {
-      demo: "https://informi.online/",
+      demo: "https://informi.vercel.app/",
       github: "#",
     },
     features: ["Revenue Calculator", "Ad Unit Generator", "Compliance Checker", "Placement Optimizer"],
@@ -30,7 +30,7 @@ const projects = [
     tags: ["JavaScript", "Utility Tools", "Data Processing", "Web Development"],
     image: "/images/devbuddy.png",
     links: {
-      demo: "https://devbuddy.online/",
+      demo: "https://devbuddy1.vercel.app/",
       github: "#",
     },
     features: ["Code Utilities", "Data Tools", "Formatting", "Conversion Tools"],
@@ -60,7 +60,7 @@ const projects = [
     tags: ["Web Design", "Online Tool", "Responsive", "UI/UX"],
     image: "/images/video-to-gif.PNG",
     links: {
-      demo: "https://makegifs.online/",
+      demo: "https://mp42gif.vercel.app/",
       github: "#",
     },
     features: ["Project Showcase", "Skills Display", "Contact Form", "Responsive Design"],
