@@ -28,7 +28,7 @@ const stats = [
   },
   {
     icon: Zap,
-    value: "7+",
+    value: "4+",
     label: "Years Experience",
     description: "In AI development and automation",
     color: "from-primary to-secondary",
