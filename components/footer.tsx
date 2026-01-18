@@ -45,7 +45,7 @@ export default function Footer() {
                   <Linkedin size={20} />
                 </motion.a>
                 <motion.a
-                  href="#"
+                  href="https://www.linkedin.com/in/waqas-bukhari-6a5912389/"
                   whileHover={{ y: -5 }}
                   whileTap={{ scale: 0.95 }}
                   className="p-2 rounded-full bg-card/50 hover:bg-card transition-colors"
