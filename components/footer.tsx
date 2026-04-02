@@ -18,7 +18,9 @@ export default function Footer() {
               </p>
               <div className="flex space-x-4">
                 <motion.a
-                  href="#"
+                  href="https://github.com/yourusername" // Replace with your actual GitHub URL
+                  target="_blank"
+                  rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
                   whileTap={{ scale: 0.95 }}
                   className="p-2 rounded-full bg-card/50 hover:bg-card transition-colors"
@@ -27,7 +29,9 @@ export default function Footer() {
                   <Github size={20} />
                 </motion.a>
                 <motion.a
-                  href="#"
+                  href="https://twitter.com/yourusername" // Replace with your actual Twitter URL
+                  target="_blank"
+                  rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
                   whileTap={{ scale: 0.95 }}
                   className="p-2 rounded-full bg-card/50 hover:bg-card transition-colors"
@@ -36,7 +40,9 @@ export default function Footer() {
                   <Twitter size={20} />
                 </motion.a>
                 <motion.a
-                  href="#"
+                  href="https://linkedin.com/in/yourusername" // Replace with your actual LinkedIn URL
+                  target="_blank"
+                  rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
                   whileTap={{ scale: 0.95 }}
                   className="p-2 rounded-full bg-card/50 hover:bg-card transition-colors"
@@ -45,7 +51,9 @@ export default function Footer() {
                   <Linkedin size={20} />
                 </motion.a>
                 <motion.a
-                  href="https://www.linkedin.com/in/waqas-bukhari-6a5912389/"
+                  href="https://instagram.com/yourusername" // Fixed: Changed from LinkedIn to Instagram URL
+                  target="_blank"
+                  rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
                   whileTap={{ scale: 0.95 }}
                   className="p-2 rounded-full bg-card/50 hover:bg-card transition-colors"
