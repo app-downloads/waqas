@@ -33,6 +33,8 @@ const projects = [
     links: {
       demo: "https://seoservicesus.github.io/",
     },
+    features: ["SEO Audit", "Keyword Research", "Content Strategy", "Link Building"], // Added features array
+  },
   {
     title: "SEO Blog",
     description:
@@ -41,6 +43,8 @@ const projects = [
     links: {
       demo: "https://seohq.github.io/",
     },
+    features: ["Blog Posts", "Case Studies", "SEO Guides", "Industry News"], // Added features array
+  },
   {
     title: "eBikes & Accessories Affiliate Website",
     description:
