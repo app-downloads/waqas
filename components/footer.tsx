@@ -29,7 +29,7 @@ export default function Footer() {
                   <Github size={20} />
                 </motion.a>
                 <motion.a
-                  href="https://twitter.com/yourusername" // Replace with your actual Twitter URL
+                  href="https://twitter.com/SyedWaqas11431" // Replace with your actual Twitter URL
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
@@ -40,7 +40,7 @@ export default function Footer() {
                   <Twitter size={20} />
                 </motion.a>
                 <motion.a
-                  href="https://linkedin.com/in/yourusername" // Replace with your actual LinkedIn URL
+                  href="https://linkedin.com/in/waqas-bukhari-6a5912389" // Replace with your actual LinkedIn URL
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ y: -5 }}
